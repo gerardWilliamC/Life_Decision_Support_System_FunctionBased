@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\bin\Debug\LifeDecisionSupportSystem_FunctionBased.exe
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\bin\Debug\LifeDecisionSupportSystem_FunctionBased.pdb
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\obj\Debug\LifeDecisionSupportSystem_FunctionBased.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\obj\Debug\LifeDecisionSupportSystem_FunctionBased.MainForm.resources
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\obj\Debug\LifeDecisionSupportSystem_FunctionBased.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\obj\Debug\LifeDecisionSupportSystem_FunctionBased.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\obj\Debug\LifeDecisionSupportSystem_FunctionBased.exe
+\\vmware-host\Shared Folders\Downloads\SANTIAGO_BSIT-WM-202_LABACT3CDBS_MIDTERM-master\obj\Debug\LifeDecisionSupportSystem_FunctionBased.pdb
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\bin\Debug\LifeDecisionSupportSystem_FunctionBased.exe
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\bin\Debug\LifeDecisionSupportSystem_FunctionBased.pdb
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\obj\Debug\LifeDecisionSupportSystem_FunctionBased.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\obj\Debug\LifeDecisionSupportSystem_FunctionBased.MainForm.resources
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\obj\Debug\LifeDecisionSupportSystem_FunctionBased.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\obj\Debug\LifeDecisionSupportSystem_FunctionBased.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\obj\Debug\LifeDecisionSupportSystem_FunctionBased.exe
+\\vmware-host\Shared Folders\Downloads\Life_Decision_Support_System_FunctionBased\obj\Debug\LifeDecisionSupportSystem_FunctionBased.pdb
